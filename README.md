@@ -1,4 +1,4 @@
-# Car-Price-Sales-By-Color-Machine-Learning
+# Car Sales By Color Machine Learning Application
 Python Jupyter Notebooks Application that takes an input of car sales and calculates how many cars will sell in future years based off of their colors.
 This project takes the input as a csv file, preprocesses the data, and then makes a prediction using the machine learning model. This machine learning model uses linear regression in order to make its prediction.
 
